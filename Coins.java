@@ -10,6 +10,6 @@ public class Coins {
 		//calculating how many cents are left after using max amount of quarters
 		int cents_count = num%25;
 		
-		System.out.println("use " + quarters_count + " quarters and " + cents_count + " cents.");
+		System.out.println("Use " + quarters_count + " quarters and " + cents_count + " cents");
 	}
 }

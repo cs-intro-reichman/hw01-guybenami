@@ -10,6 +10,6 @@ public class Triangle {
 
 		// first, print the asked pattern including the lengths
 		// then, print the answer: true or false, whether the given lengths can form a triangle or not
-		System.out.println(a + ", " + b + ", " + c + " : " + (a < (b+c) && b < (a+c) && c < (a+b)));
+		System.out.println(a + ", " + b + ", " + c + ": " + (a < (b+c) && b < (a+c) && c < (a+b)));
 	}
 }
